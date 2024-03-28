@@ -1,0 +1,23 @@
+.previewComponent,.available,.applied{
+  float:left;
+  margin: 50px;
+}
+
+img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+button {
+  margin: 5pt;
+  height: 30px;
+  width: 100px;
+  text-align: left;
+}
+
+.hidden{
+  opacity:0;
+}
+
