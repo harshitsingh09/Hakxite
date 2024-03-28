@@ -122,7 +122,7 @@ class Application extends React.Component {
     if (this.state.isProcessed) {
       processedImage = <img src="pdf_logo.png" alt="Processed PDF Logo" />;
     }
-
+  
     // If image is processed, display the reset button, else display the process button
     let actionButton = this.state.isProcessed ? (
       <button className="resetButton" onClick={this.handleReset}>
@@ -133,10 +133,10 @@ class Application extends React.Component {
         Process this!
       </button>
     );
-
+  
     return (
       <div className="edit">
-        {/* Display the processed image */}
+        {/* Display the processed image or null */}
         {processedImage}
         {/* Display the action button */}
         <div>
@@ -145,6 +145,5 @@ class Application extends React.Component {
       </div>
     );
   }
-}
-
+}  
 export default App;
