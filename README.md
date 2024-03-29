@@ -34,10 +34,19 @@ This project aims to develop a website for analyzing poverty levels in urban are
 2. **Data Quality**: Addressing factors like cloud cover and seasonal variations in lighting that affect data quality.
 3. **Data Volume and Processing Power**: Analyzing large volumes of satellite imagery requires significant computational resources.
 
+## Demo
+
+### Input Image
+![Input Image](input_image.jpg)
+
+### Output Image (Poverty Map)
+![Output Image](output_image.jpg)
+
 ## Contribution
 
 Contributions to this project, whether through feedback, suggestions, or code contributions, are highly appreciated. Together, we can harness the potential of nighttime satellite imagery to address socio-economic challenges in cities.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License version 3.0 (GPL-3.0)](LICENSE).
+
