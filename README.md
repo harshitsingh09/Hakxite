@@ -37,10 +37,10 @@ This project aims to develop a website for analyzing poverty levels in urban are
 ## Demo
 
 ### Input Image
-![Input Image](input_image.jpg)
+![Input Image](sample_input_image.jpg)
 
 ### Output Image (Poverty Map)
-![Output Image](output_image.jpg)
+![Output Image](sample_output_image.jpg)
 
 ## Contribution
 
