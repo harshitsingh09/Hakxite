@@ -1,6 +1,6 @@
 .previewComponent,.available,.applied{
-  float:left;
-  margin: 50px;
+  text-align: center;
+  margin-top: 20px;
 }
 
 img{
@@ -21,3 +21,14 @@ button {
   opacity:0;
 }
 
+.edit {
+  text-align: center; /* Center align all content within the edit container */
+}
+
+.imgPreview {
+  margin-bottom: 20px; /* Add margin at the bottom */
+}
+
+.processButton {
+  margin-top: 20px; /* Add margin at the top */
+}
