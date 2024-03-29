@@ -21,6 +21,8 @@ class App extends Component {
     this.setState(state);
   }
 
+
+  
   handleImageChange(e) {
     e.preventDefault();
     let reader = new FileReader();
