@@ -1,13 +1,14 @@
 # SocioEconomic Analysis of Cities
 
-## YouTube/Dailymotion Demo link
-DailyMotion: https://dai.ly/kinRFVEaesNT51Anb8g
-YouTube: https://youtu.be/6eTK1hwHmEY
-
 ## Tagline
 Beyond the Dark: Nighttime Images Reveal City Secrets
 
 The project explores the potential of nighttime satellite imagery for socioeconomic analysis in cities by analyzing variations in light intensity.
+
+## Video Demo
+DailyMotion: https://dai.ly/kinRFVEaesNT51Anb8g
+
+YouTube: https://youtu.be/6eTK1hwHmEY
 
 ## Overview
 
