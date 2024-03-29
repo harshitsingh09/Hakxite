@@ -82,8 +82,8 @@ class ImageUpload extends React.Component {
     return (
       
       <div className="previewComponent">
-        <div className='py-4 mb-2 text-blue-700 shadow-md border'>
-          <h1 className='font-bold text-4xl'>Night Time Analyzer</h1>
+        <div>
+          <h1 className="font-bold text-4xl" style={{ color: '#ffffff' }}>NIGHT TIME ANALYZER</h1>
         </div>
       <div className="imgPreview">
         {imagePreview}
